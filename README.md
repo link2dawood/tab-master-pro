@@ -1,6 +1,4 @@
-# tab-master-pro
-
-# 🛠️ Support – Chrome Extension
+# 🛠️ Support – Tab Master Rro
 
 Thank you for using our Chrome extension! We are committed to delivering a seamless and reliable experience. If you encounter any issues, have suggestions, or just want to reach out for guidance, we’re here to help.
 
